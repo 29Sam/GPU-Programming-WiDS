@@ -80,7 +80,7 @@ Read: Full post
 - GPU Gems Chapter 39 (Parallel Prefix Sum): [https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda) — See how algorithms change for GPUs
 
 **A More Visual Layman's Introduction**
-- BRanch Education video on GPUs: [https://www.youtube.com/watch?v=h9Z4oGN89MU](https://www.youtube.com/watch?v=h9Z4oGN89MU)
+- Branch Education video on GPUs: [https://www.youtube.com/watch?v=h9Z4oGN89MU](https://www.youtube.com/watch?v=h9Z4oGN89MU)
 
 ## **Week 1 Assignment (Summary)**
 
