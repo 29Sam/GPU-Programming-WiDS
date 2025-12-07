@@ -32,16 +32,21 @@ This week builds your mental model so everything later (memory, performance, ker
 
 **UC Berkeley CS61C — GPU Architecture Lecture** (James Percy)  
 [https://www.youtube.com/watch?v=xdcW52tEPfE](https://www.youtube.com/watch?v=xdcW52tEPfE)  
+
 **Focus**: Why CPUs hit a wall, power/memory constraints, throughput vs latency philosophy
 
 **NVIDIA CUDA Programming Guide — Chapter 1**  
 [https://docs.nvidia.com/cuda/cuda-c-programming-guide/](https://docs.nvidia.com/cuda/cuda-programming-guide/) 
+
 Read: Sections 1.1–1.3  
+
 **Focus**: SIMT execution model, thread/block/grid hierarchy, host vs device
 
 **Stanford CS149 — GPU Architecture & Programming Model** (Kayvon Fatahalian)  
 [https://gfxcourses.stanford.edu/cs149/fall24/lecture/gpuarch/](https://gfxcourses.stanford.edu/cs149/fall24/lecture/gpuarch/)  
-Video: [https://www.youtube.com/watch?v=gNyEHuuFdPQ](https://www.youtube.com/watch?v=qQTDF0CBoxE) 
+
+Video: [https://www.youtube.com/watch?v=gNyEHuuFdPQ](https://www.youtube.com/watch?v=qQTDF0CBoxE)
+
 **Focus**: Warps, SMs, memory hierarchy basics, what makes code "GPU-friendly"
 
 ### **2. GPU in Practice**
