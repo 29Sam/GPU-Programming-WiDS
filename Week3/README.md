@@ -41,7 +41,7 @@ Focus on:
 ### **2. Mark Harris — Coalesced Memory Access (GTC Talk)**
 
 🎥 Video:
-[https://developer.nvidia.com/blog/coalesced-memory-access/](https://developer.nvidia.com/blog/coalesced-memory-access/)
+[https://developer.nvidia.com/blog/coalesced-memory-access/)](https://www.nvidia.com/en-us/on-demand/session/gtc24-s62550/)
 
 Focus on:
 
